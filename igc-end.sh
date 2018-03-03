@@ -1,1 +1,1 @@
-grep ^B Mo/1c7267ab.igc | cut -c 2-7 | tail -n 1
+grep ^B Mo/1c7267ab.igc | cut -c 2-7 | tail -n 1 
